@@ -1,0 +1,10 @@
+0 valid_miles q
+1 weight q
+2 transport_type_FLATBED i
+3 transport_type_REEFER i
+4 transport_type_VAN i
+5 pickup_week q
+6 pickup_hour q
+7 pickup_dayofyear_sin q
+8 origin_kma q
+9 destination_kma q

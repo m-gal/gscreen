@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\User\\anaconda3\\envs\\py38_ml\\python.exe",
+		"workbench.colorCustomizations": {
+			"editor.selectionBackground": "#1a93c37c",
+			"editor.selectionHighlightBackground": "#ff00005b",
+			"editor.findMatchBackground": "#00cc44a8",
+			"editor.findMatchHighlightBackground": "#ff7b00a1",
+			"editor.lineHighlightBackground": "#04fa412a",
+			"editorGroup.border": "#a5a5a5",
+			"activityBar.activeBorder": "#ff0000",
+			"tab.activeBorderTop": "#ff0000",
+			"activityBar.background": "#183234",
+			"titleBar.activeBackground": "#224549",
+			"titleBar.activeForeground": "#F7FBFB"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+name: gscreen
+conda_env: conda.yaml
+
+entry_points:
+  download:
+    command: "python download.py"
+
+  process:
+    parameters:
+      file_path: path
+    command: "python process.py --file-path {file_path}"
+
+  train:
+    parameters:
+      data_path: path
+    command: "python train.py --data-path {data_path}"
+
+  main:
+    parameters:
+      input1: {type: int, default: 1000000}
+    command: "python main.py --input1 {input1}"

@@ -1,0 +1,1 @@
+{"columns": ["valid_miles", "transport_type", "weight", "pickup_date", "origin_kma", "destination_kma"], "data": [[32.87, "VAN", 20000, "2020-10-27 14:00:00", "CA_ONT", "CA_ONT"], [577.34998, "REEFER", 36085, "2020-11-13 05:00:00", "TN_KNO", "PA_HAR"]]}

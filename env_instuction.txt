@@ -1,0 +1,15 @@
+=================================
+Conda environment
+=================================
+To create this spec list as a file in the current working directory, run:
+	>conda list --explicit > requirements_conda.txt
+To use the spec file to create an identical environment on the same machine or another machine:
+	>conda create --name myenv --file requirements_conda.txt
+To use the spec file to install its listed packages into an existing environment:
+	c>onda install --name myenv --file requirements_conda.txt
+
+=================================
+PIP environment
+=================================
+To make a Requirements.txt
+	C:\Users\User> pip freeze > requirements_pip.txt
